@@ -1,7 +1,7 @@
 openapi: 3.0.0
 info:
   version: v20
-  title: repoVersion-20
+  title: repoVersion-20-1
 servers:
   - url: 'https://petstore.swagger.io/v1'
 paths:
